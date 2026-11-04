@@ -161,3 +161,12 @@ cython_debug/
 
 # DSstore
 smh/.DS_Store
+
+# Anya's analysis files/directories:
+exports/
+my_spectra/
+linelists/
+smh_runs/
+synth/
+SMHR_RPA_MP_synth.txt 
+TERESE_coadd_multispec.py.txt 
